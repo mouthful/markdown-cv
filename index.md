@@ -21,12 +21,10 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Computational biology, computational chemistry, etc.
 
 ## Education
-* **Ph.D. of Control Science and Engineering** <font size=3>in XJTU, Sep 2019-June 2024(Expected)</font>
-* **Bachelor of Automation** <font size=3>in XJTU, Sep 2015-June 2019</font>
+
 `Sep 2019-June 2024(Expected)`
 __Xi'an Jiaotong University__
 
@@ -36,8 +34,6 @@ __Xi'an Jiaotong University__
 __Xi'an Jiaotong University__
 
 - Bachelor of Automation
-
-
 
 
 <!-- ## Awards
@@ -52,24 +48,24 @@ Associate, *French Academy of Science*, Paris, France -->
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-A list is also available [online](https://scholar.google.com/citations?user=ACpFECkAAAAJ&hl=zh-CN)
-<!-- ### Journals
+A full list is available [online](https://scholar.google.com/citations?user=ACpFECkAAAAJ&hl=zh-CN)
+<!-- ### Journals -->
 
-`1669`
+<!-- `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
+etc. etc. etc. -->
 
-### Patents
+<!-- ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
-## Occupation
+<!-- ## Occupation
 
 `1600`
 __Royal Mint__, London
@@ -84,6 +80,6 @@ __Lucasian professor of Mathematics__, Cambridge University -->
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2022 -->
 
 
