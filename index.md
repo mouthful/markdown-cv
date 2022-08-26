@@ -2,22 +2,21 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# He Zhang
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mothful123@gmail.com">Email</a>
+| <a href="https://mouthful.github.io/">Website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am currently a fourth-year PhD candidate at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (XJTU). I am also a member of joint Ph.D. program between XJTU and MSRA, advised by Prof. [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1046/1229.htm) and Dr. [Bin Shao](https://www.binshao.info/). Before that, I received my Bachelor degree in 2019 from XJTU.
 
-### Specialized in
+<!-- ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
 
 
 ### Research interests
@@ -26,36 +25,35 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
+* **Ph.D. of Control Science and Engineering** <font size=3>in XJTU, Sep 2019-June 2024(Expected)</font>
+* **Bachelor of Automation** <font size=3>in XJTU, Sep 2015-June 2019</font>
+`Sep 2019-June 2024(Expected)`
+__Xi'an Jiaotong University__
 
-`1654-1660`
-__The King's School, Grantham.__
+- Ph.D. of Control Science and Engineering
+  
+`Sep 2015-June 2019`
+__Xi'an Jiaotong University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Automation
 
 
 
-## Awards
+
+<!-- ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Associate, *French Academy of Science*, Paris, France -->
 
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
+A list is also available [online](https://scholar.google.com/citations?user=ACpFECkAAAAJ&hl=zh-CN)
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -80,7 +78,7 @@ __Royal Mint__, London
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Lucasian professor of Mathematics__, Cambridge University -->
 
 
 
